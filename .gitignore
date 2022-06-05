@@ -444,3 +444,5 @@ samples/features/sql-management-objects/src/out/CodeCoverage/CodeCoverage.config
 
 # Composer
 /vendor/
+
+settings.json
