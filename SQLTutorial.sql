@@ -3,3 +3,8 @@
 create database edureka;
 
 drop database edureka;
+
+create table emp(
+    id int not null auto_increment,
+    endname
+);
